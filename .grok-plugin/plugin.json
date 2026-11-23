@@ -1,0 +1,17 @@
+{
+  "name": "structured-docs",
+  "version": "0.1.0",
+  "description": "Organize project documentation by level of abstraction with AI agents.",
+  "author": {
+    "name": "Dmitriy Marmyshev"
+  },
+  "homepage": "https://github.com/marmyshev/structured-docs-plugin",
+  "repository": "https://github.com/marmyshev/structured-docs-plugin",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "requirements",
+    "business-rules"
+  ],
+  "skills": "./skills/"
+}

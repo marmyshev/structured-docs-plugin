@@ -1,0 +1,33 @@
+{
+  "name": "structured-docs",
+  "version": "0.1.0",
+  "description": "Organize project documentation by level of abstraction with AI agents.",
+  "author": {
+    "name": "Dmitriy Marmyshev"
+  },
+  "homepage": "https://github.com/marmyshev/structured-docs-plugin",
+  "repository": "https://github.com/marmyshev/structured-docs-plugin",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "requirements",
+    "business-rules"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Structured Docs",
+    "shortDescription": "Organize project documentation by level of abstraction with AI agents.",
+    "longDescription": "Organize project documentation by goals, business rules, requirements, UI, and technical decisions. Migrate legacy rule files and record decisions as documentation rules.",
+    "developerName": "Dmitriy Marmyshev",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/marmyshev/structured-docs-plugin",
+    "defaultPrompt": [
+      "Help me organize my project documentation by level of abstraction."
+    ]
+  }
+}

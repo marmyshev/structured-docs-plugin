@@ -1,0 +1,15 @@
+{
+  "name": "structured-docs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./.opencode/plugins/structured-docs.js"
+  },
+  "files": [
+    ".opencode/plugins/structured-docs.js",
+    "skills"
+  ],
+  "repository": "https://github.com/marmyshev/structured-docs-plugin",
+  "license": "MIT"
+}

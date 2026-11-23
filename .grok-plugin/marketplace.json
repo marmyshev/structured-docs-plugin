@@ -1,0 +1,24 @@
+{
+  "name": "structured-docs-plugin",
+  "description": "Organize project documentation by level of abstraction with AI agents.",
+  "owner": {
+    "name": "Dmitriy Marmyshev"
+  },
+  "plugins": [
+    {
+      "name": "structured-docs",
+      "description": "Organize project documentation by level of abstraction with AI agents.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/marmyshev/structured-docs-plugin.git"
+      },
+      "homepage": "https://github.com/marmyshev/structured-docs-plugin",
+      "keywords": [
+        "documentation",
+        "requirements",
+        "business-rules"
+      ]
+    }
+  ]
+}
